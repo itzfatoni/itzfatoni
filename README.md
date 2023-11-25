@@ -59,4 +59,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFatoni/MFatoni/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-###
