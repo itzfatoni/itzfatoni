@@ -9,11 +9,15 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e477vbh4y1se982pm3jgrs1qnlw11by227aajy8rh84&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e477vbh4y1se982pm3jgrs1qnlw11by227aajy8rh84&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -41,7 +45,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mohammad-fatoni/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
