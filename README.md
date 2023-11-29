@@ -2,6 +2,19 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-fatoni/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/12157506/fatoni" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MFatoni&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFatoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
@@ -36,19 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-fatoni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/12157506/fatoni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
 </div>
 
 ###
