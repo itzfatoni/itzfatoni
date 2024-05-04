@@ -4,8 +4,8 @@
 
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e477vbh4y1se982pm3jgrs1qnlw11by227aajy8rh84&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFatoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MFatoni&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzfatoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=itzfatoni&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -57,8 +57,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MFatoni/MFatoni/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFatoni/MFatoni/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzfatoni/itzfatoni/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzfatoni/itzfatoni/output/github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
